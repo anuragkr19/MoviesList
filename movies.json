@@ -1,0 +1,82 @@
+[
+  {
+    "movie_id":"1",
+    "title":"The Dark Knight",
+    "release_year":"2008",
+    "director": "Christopher Nolan",
+    "category":"AlreadyViewed",
+    "image_url":"http://localhost:9000/images/The_Dark_Knight.jpg"
+  },
+  {
+      "movie_id":"2",
+      "title":"The Dark Knight Rises",
+      "release_year":"2012",
+      "director": "Christopher Nolan",
+      "category":"CurrentlyViewing",
+      "image_url":"http://localhost:9000/images/The Dark Knight Rises.jpg"
+  },
+  {
+      "movie_id":"3",
+      "title":"The Avengers",
+      "release_year":"2012",
+      "director": "Joss Whedon",
+      "category":"PlanningToView",
+      "image_url":"http://localhost:9000/images/The_Avengers.jpg"
+  },
+  {
+      "movie_id":"4",
+      "title":"Die Hard 2",
+      "release_year":"1990",
+      "director": "Renny Harlin",
+      "category":"AlreadyViewed",
+      "image_url":"http://localhost:9000/images/Die_Hard_2.jpg"
+  },
+  {
+      "movie_id":"5",
+      "title":"The Prestige",
+      "release_year":"2005",
+      "director": "Christopher Nolan",
+      "category":"AlreadyViewed",
+      "image_url":"http://localhost:9000/images/The_Prestige.jpg"
+  },
+  {
+      "movie_id":"6",
+      "title":"The Hangover",
+      "release_year":"2009",
+      "director": "Todd Phillips",
+      "category":"AlreadyViewed",
+      "image_url":"http://localhost:9000/images/The_Hangover.jpg"
+  },
+  {
+      "movie_id":"7",
+      "title":"X-Men Days of Future Past",
+      "release_year":"2014",
+      "director": "Bryan Singer",
+      "category":"PlanningToView",
+      "image_url":"http://localhost:9000/images/X_Men_Days_Of_Future_Past.jpg"
+  },
+  {
+      "movie_id":"8",
+      "title":"The Pursuit of Happiness",
+      "release_year":"2006",
+      "director": "Gabriele Muccino",
+      "category":"AlreadyViewed",
+      "image_url":"http://localhost:9000/images/The_Pursuit_Of_Happyness.jpg"
+  },
+  {
+      "movie_id":"9",
+      "title":"Mission Impossible 5 Rogue Nation",
+      "release_year":"2015",
+      "director": "Christopher McQuarrie",
+      "category":"PlanningToView",
+      "image_url":"http://localhost:9000/images/Mission_Impossible_Rogue_Nation.jpg"
+  },
+  {
+      "movie_id":"10",
+      "title":"Inception",
+      "release_year":"2010",
+      "director": "Christopher Nolan",
+      "category":"AlreadyViewed",
+      "image_url":"http://localhost:9000/images/Inception.jpg"
+  }
+]
